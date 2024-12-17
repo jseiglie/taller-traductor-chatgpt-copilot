@@ -3,7 +3,7 @@
 
 This app was made for a 4 Geeks Academy workshop that you can see on youtube to follow the process and deliver the same result or one "very close to it" (we are using Copilot to generate the code, that's why the "very close to it").  
 
-As mentioned, we are using React with Copilot (this one will generate the code) and ChatGPT for dealing with the translation.
+As mentioned, we are using React with Copilot (this one will generate the code) and ChatGPT for dealing with the translation part.
 
 We are using environment variables, please make sure to create an `.env` file and store in this file on `REACT_APP_API_KEY` the openAI API key that you have to generate on their [developer portal](https://platform.openai.com).
 
